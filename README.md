@@ -8,4 +8,5 @@
 NavodyaLiyanage/NavodyaLiyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-My whatsapp number +943109531
+My whatsapp number +94773109531
+whatsapp link : https://wa.me/qr/JUOXEK74A4EJB1
