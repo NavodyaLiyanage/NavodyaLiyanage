@@ -1,32 +1,32 @@
 {
-  "name": "sew-queen",
+  "name": "queen-aneshiya",
   "version": "3.0.1",
-  "description": "Sew Queen Best Whatsapp-Bot Project In The World",
-  "main": "./QueenSewWhatsappBot/sew.js",
+  "description": "Queen Aneshiya Best Whatsapp-Bot Project In The World",
+  "main": "./AneshiyaQueenWhatsappBot/aneshiya.js",
   "scripts": {
-    "start": "supervisor -s sew.js"
+    "start": "supervisor -a aneshiya.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravindu01manoj/Sew-Queen.git"
+    "url": "git+https://github.com/navodyaliyanage/Queen-Aneshiya.git"
   },
   "keywords": [
     "whatsapp",
-    "sew",
     "queen",
-    "sewqueen",
+    "aneshiya",
+    "queenaneshiya",
     "best",
     "bot"
   ],
-  "author": "Ravindu",
+  "author": "Navodya",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ravindu01manoj/Sew-Queen/issues"
+    "url": "https://github.com/navodyaliyanage/Queen-Aneshiya/issues"
   },
-  "homepage": "https://github.com/ravindu01manoj/Sew-Queen#readme",
+  "homepage": "https://github.com/navodyaliyanage/Queen-Aneshiya#readme",
   "dependencies": {
-    "@ravindu01manoj/sew-queen-web": "1.0.1",
-    "emoji-to-png-sew": "1.0.5",
+    "@navodyaliyanage/queen-qneshiya-web": "1.0.1",
+    "emoji-to-png-aneshiya": "1.0.5",
     "network-speed": "2.1.1",
     "cheerio": "^1.0.0-rc.5",
     "axios": ">=0.21.2",
